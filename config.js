@@ -1,5 +1,5 @@
 const nameGirl = 'Nga <3';
-
+const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'My best friend! 会いたい！';
 const contentCard = 'Nhân dịp 20/10 chúc Nga thật vui vẻ, tràn đầy năng lượng😊. Dẫu biết rằng cuộc sống 1 mình chưa bao jo là dễ dàng, nhưng tin Nga sẽ vượt qua hết thui 😄! Vậy hãy cố gắng hơn nữa nhé!　またね！';
